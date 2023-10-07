@@ -1,3 +1,7 @@
+/* Javascriptte her değişken her değeri alabilir çünkü hiçbir type
+kontrolü yoktur. Bu ilk bakışta esneklik ve kolaylık olarak görülür
+ama büyük projelerde problem oluşturur. */
+
 let users = [];
 users.push({
   id: 1,
